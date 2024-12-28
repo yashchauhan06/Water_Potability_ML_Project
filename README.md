@@ -1,2 +1,3 @@
 # Water_Potability_ML_Project
-It consist of predictive models that can predict if water is safe for human consumption (potable) or not based on existing various water quality indicators. 
+The primary business problem is to develop a predictive model that can predict if water is safe for human consumption (potable) or not based on existing various water quality indicators. The classification into these two categories is essential to ensure that corrective measures are taken, and water treatment processes are optimized in an efficient manner so as they reach the safety standards.
+A predictive model for water potability can help city water authorities to considerably lessen the risk of a wide variety of the most common and widespread health problems related to unsafe drinking-water. Such proactive measures protect public health and ensure that the water authority can perform with creditability, efficiency.
